@@ -1,0 +1,338 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    padding: 20px 0;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-o5tLM2Gi2ra9n1H3mnTAzBQGKST_FLVhGQ&s);
+    color: rgb(255, 127, 127);
+    font-family: Romântica;
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+header nav li {
+    display: inline;
+    margin-left: 20px;
+    border-bottom: solid 1px rgb(240, 157, 157);
+    margin-bottom: 10px;
+    
+}
+
+header nav li a {
+    color: rgb(245, 143, 143);
+    text-decoration: none;
+}
+
+.minha-paixão {
+    max-width: 1280px;
+    width: 100%;
+    margin-left: 110px;
+}
+
+header .minha-paixão {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+@font-face  {
+    font-family: Romântica;
+    src: url(./Romantica.ttf);
+    ;
+}
+
+section img {
+    margin: 20px 0px 20px 100px;
+    height: 500px;
+}
+
+section .important  {
+    display: flex;
+}
+
+section .ajustando-texto h1 {
+    margin-top: 70px;
+    font-family: romântica;
+    font-size: 80px;
+    margin-bottom: 60px;
+    color: rgb(255, 0, 0);
+    
+    
+}
+
+@font-face {
+    font-family: te-amo;
+    src: url(./Holding.otf);
+}
+
+section .te-amo {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUtEXxH5RZvMVRDzgcYBNw1ZA-wHkiHbSjAQ&s);
+    margin: 0 20px;
+    font-family: te-amo;
+    font-size: auto;
+    padding: 20px;
+}
+
+section .te-amo p {
+    font-size: 80px;
+}
+
+section .te-amo footer {
+    font-size: 7px;
+} 
+
+.form input {
+    height:40px;
+    margin-top: 8px;
+    width: 250px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+}

@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: romântica;
+    src: url(./Romantica.ttf);
+}
+
+@font-face {
+    font-family: te-amo;
+    src: url(./Holding.otf);
+}
+
+header h1 {
+    text-align: center;
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p3/18969044-padrao-de-coracao-rosa-cartoes-de-amor-de-coracao-coracao-papel-de-parede-amor-romance-e-simbolos-de-casamento-vetor.jpg);
+    height: 300px;
+    font-family: romântica;
+    font-size: 150px;
+    
+}
+
+.suas-foto-bebezinha {
+    display: flex;
+    margin: 0px 0 0 50px;
+    height: 500px;
+    }
+
+.suas-foto-bebezinha1 {
+    display: flex;
+    margin: 40px 0 0 50px;
+    height: 500px;
+    
+    
+}
+
+.suas-foto-bebezinha2 {
+    display: flex;
+    margin: 40px 0 0 50px;
+    height: 500px;
+} 
+
+.suas-foto-bebezinha, .suas-foto-bebezinha1, .suas-foto-bebezinha2, p {
+    font-family: te-amo;
+    margin-left: 25px;
+}
+
+.background {
+    background-color: rgb(240, 204, 157);
+}
